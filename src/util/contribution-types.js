@@ -100,11 +100,7 @@ const defaultTypes = function(repoType) {
       description: 'Videos',
     },
     maintenance: {
-<<<<<<< HEAD
       symbol: '🚧',
-=======
-      symbol: '👷',
->>>>>>> feat(contribution-type): added maintenance type
       description: 'Maintenance',
     },
   }
